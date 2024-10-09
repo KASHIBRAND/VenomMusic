@@ -20,10 +20,10 @@ def track_markup(_, videoid, user_id, channel, fplay):
         ],
         [
             InlineKeyboardButton(
-                text="🥀 ᴏᴡɴᴇʀ 🥀", url=f"tg://openmessage?user_id={OWNER_ID}",
+                text="🥀 ᴏᴡɴᴇʀ 🥀", url=f"https://t.me/CHIKU_THE_MUSIC",
             ),
             InlineKeyboardButton(
-                text="🥀 sᴜᴩᴩᴏʀᴛ 🥀", url=SUPPORT_CHAT,
+                text="🥀 sᴜᴩᴩᴏʀᴛ 🥀", url="https://t.me/+_qPchBV5z4VjMjM1",
             )
         ],
         [
@@ -91,10 +91,10 @@ def stream_markup_timer(_, chat_id, played, dur):
             ],
         [
             InlineKeyboardButton(
-                text="🥀 ᴏᴡɴᴇʀ 🥀", url=f"tg://openmessage?user_id={OWNER_ID}",
+                text="🥀 ᴏᴡɴᴇʀ 🥀", url=f"https://t.me/CHIKU_THE_MUSIC",
             ),
             InlineKeyboardButton(
-                text="🥀 sᴜᴩᴩᴏʀᴛ 🥀", url=SUPPORT_CHAT,
+                text="🥀 sᴜᴩᴩᴏʀᴛ 🥀", url="https://t.me/+_qPchBV5z4VjMjM1",
             )
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -113,10 +113,10 @@ def stream_markup(_, chat_id):
             ],
         [
             InlineKeyboardButton(
-                text="🥀 ᴏᴡɴᴇʀ 🥀", url=f"tg://openmessage?user_id={OWNER_ID}",
+                text="🥀 ᴏᴡɴᴇʀ 🥀", url=f"https://t.me/CHIKU_THE_MUSIC",
             ),
             InlineKeyboardButton(
-                text="🥀 sᴜᴩᴩᴏʀᴛ 🥀", url=SUPPORT_CHAT,
+                text="🥀 sᴜᴩᴩᴏʀᴛ 🥀", url="https://t.me/+_qPchBV5z4VjMjM1",
             )
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
