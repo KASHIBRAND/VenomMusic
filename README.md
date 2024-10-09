@@ -1,7 +1,7 @@
-<p align="center"><a href="https://github.com/venombolteop/VenomMusic/blob/main/pampa.txt"> <img src="https://img.shields.io/badge/Add%20Your%20Cookies-blue?style=for-the-badge" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://github.com/KASHIBRAND/VenomMusic/blob/main/pampa.txt"> <img src="https://img.shields.io/badge/Add%20Your%20Cookies-blue?style=for-the-badge" width="220" height="38.45"/></a></p>
   
   
-<p align="center"><a href="https://t.me/venom_bolti_public"> <img src="https://img.shields.io/badge/Credit%20To%20Owner-darkred?style=for-the-badge" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://t.me/+_qPchBV5z4VjMjM1"> <img src="https://img.shields.io/badge/Credit%20To%20Owner-darkred?style=for-the-badge" width="220" height="38.45"/></a></p>
 
 
 <h2 align="center">
@@ -13,11 +13,11 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/venombolteop/VenomMusic/stargazers"> <img src="https://img.shields.io/github/stars/venombolteop/VenomMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/venombolteop/VenomMusic/network/members"> <img src="https://img.shields.io/github/forks/venombolteop/VenomMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/venombolteop/VenomMusic/blob/main/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/KASHIBRAND/VenomMusic/stargazers"> <img src="https://img.shields.io/github/stars/KASHIBRAND/VenomMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/KASHIBRAND/VenomMusic/network/members"> <img src="https://img.shields.io/github/forks/KASHIBRAND/VenomMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/KASHIBRAND/VenomMusic/blob/main/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/venombolteop/VenomMusic/commits/venombolteop"> <img src="https://img.shields.io/github/last-commit/venombolteop/VenomMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/KASHIBRAND/VenomMusic/commits/venombolteop"> <img src="https://img.shields.io/github/last-commit/venombolteop/VenomMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 
@@ -25,7 +25,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/venombolteop/VenomMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/KASHIBRAND/VenomMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
@@ -65,11 +65,11 @@ Press ```Ctrl+C``` when you're done with editing env and ```:wq``` to save the e
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/Venom_Chatz"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/+_qPchBV5z4VjMjM1"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/VenomOwners"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/+_qPchBV5z4VjMjM1"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 - <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʏᴜᴋᴋɪ](https://github.com/TeamYukki) ғᴏʀ [ʏᴜᴋᴋɪ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/TeamYukki/YukkiMusicBot)_ </b>
